@@ -1,9 +1,10 @@
 # UsabilityTesting
 
 Steps:
-1. Open the Terminal app and type ``` brew update ```. This updates Homebrew with a list of the latest version of Node.
-2. type ``` brew install node ```
-3. cd to the project folder
-4. ``` npm start ```
-5. then the page will be on ```localhost:3000```
+1. Unzip the Zip file
+2. Open the Terminal app and type ``` brew update ```. This updates Homebrew with a list of the latest version of Node.
+3. Type ``` brew install node ```
+4. cd to the project folder
+6. ``` npm start ```
+7. Then the page will be on ```localhost:3000```
 
